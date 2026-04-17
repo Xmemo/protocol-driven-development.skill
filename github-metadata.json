@@ -1,6 +1,6 @@
 {
   "name": "protocol-driven-build",
-  "description": "Protocol-first workflow for AI-native product building, covering boundary, state, memory, API, risk, and traceability before implementation.",
+  "description": "Protocol-first product building engine that turns fuzzy ideas into machine-readable constraints before implementation.",
   "topics": [
     "ai-native",
     "product-management",
@@ -8,8 +8,8 @@
     "protocol",
     "workflow",
     "spec-first",
-    "ux-contract",
-    "traceability"
+    "traceability",
+    "state-machine",
+    "api-contract"
   ]
 }
-

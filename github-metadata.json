@@ -1,0 +1,15 @@
+{
+  "name": "protocol-driven-build",
+  "description": "Protocol-first workflow for AI-native product building, covering boundary, state, memory, API, risk, and traceability before implementation.",
+  "topics": [
+    "ai-native",
+    "product-management",
+    "prd",
+    "protocol",
+    "workflow",
+    "spec-first",
+    "ux-contract",
+    "traceability"
+  ]
+}
+
